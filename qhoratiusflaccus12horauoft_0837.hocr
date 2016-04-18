@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiusflaccus12horauoft_0837.png"; bbox 0 0 1722 2904; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1375 735 1495 1036">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1375 735 1495 1036">
+     <span class='ocr_line' id='line_1_1' title="bbox 1450 735 1495 804; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 1450 735 1495 804; x_wconf 78' lang='lat' dir='ltr'><strong>m,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1375 737 1433 1036; textangle 270"><span class='ocrx_word' id='word_1_2' title='bbox 1375 737 1433 1036; x_wconf 69' lang='lat' dir='ltr'><strong>nenzny.5</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1385 1169 1500 1957">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1385 1169 1500 1957">
+     <span class='ocr_line' id='line_1_3' title="bbox 1456 1169 1500 1367; textangle 270"><span class='ocrx_word' id='word_1_3' title='bbox 1456 1169 1500 1367; x_wconf 77' lang='lat' dir='ltr'>Horace</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1385 1305 1440 1957; textangle 270"><span class='ocrx_word' id='word_1_4' title='bbox 1385 1305 1436 1363; x_wconf 83' lang='lat' dir='ltr'><strong>Q.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1392 1404 1438 1665; x_wconf 71' lang='lat' dir='ltr'><strong>Horat1ua</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1388 1701 1440 1957; x_wconf 74' lang='lat' dir='ltr'><strong>F1a00u85</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1256 1170 1372 1628">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1256 1170 1372 1628">
+     <span class='ocr_line' id='line_1_5' title="bbox 1323 1170 1372 1628; textangle 270"><span class='ocrx_word' id='word_1_7' title='bbox 1323 1170 1367 1396; x_wconf 64' lang='lat' dir='ltr'><strong>Baiter.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1325 1471 1372 1628; x_wconf 86' lang='lat' dir='ltr'><strong>Ed.5.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1256 1303 1303 1498; textangle 270"><span class='ocrx_word' id='word_1_9' title='bbox 1256 1303 1303 1498; x_wconf 83' lang='lat' dir='ltr'><strong>v01.2.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 195 687 1372 2904">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 195 687 1372 2904">
+     <span class='ocr_line' id='line_1_7' title="bbox 195 687 1372 2904; textangle 270"><span class='ocrx_word' id='word_1_10' title='bbox 195 687 1372 2904; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
